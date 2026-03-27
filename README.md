@@ -30,7 +30,7 @@ User Input → AI Processing → Risk Scoring → Recommendation
 - PHC integration
 - Outbreak monitoring
 
-## Team
+## Team Member
 - Akshat Singh (Frontend)
 - Aditya Singh Jadon (Backend)
 - Ankita (AI)
