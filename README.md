@@ -32,5 +32,5 @@ User Input → AI Processing → Risk Scoring → Recommendation
 
 ## Team
 - Akshat (Frontend)
-- Aditya (Backend)
+- Aditya Singh Jadon (Backend)
 - Ankita (AI)
