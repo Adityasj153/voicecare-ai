@@ -25,6 +25,9 @@ User Input → AI Processing → Risk Scoring → Recommendation
 3. Run backend: `node index.js`
 4. Run frontend: `npm start`
 
+## Demo
+![UI Screenshot](./Screenshot 2026-03-28 002523.png)
+
 ## Future Scope
 - Multi-language support
 - PHC integration
