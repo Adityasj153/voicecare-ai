@@ -31,6 +31,6 @@ User Input → AI Processing → Risk Scoring → Recommendation
 - Outbreak monitoring
 
 ## Team Member
-- Akshat Singh (Frontend)
-- Aditya Singh Jadon (Backend)
-- Ankita (AI)
+- Akshat Singh (Frontend Development)
+- Aditya Singh Jadon (Backend Development)
+- Ankita (Artificial Intelligence)
